@@ -55,6 +55,14 @@ Watch HTML and LESS:
 gulp watch
 ```
 
+Start up a local electron instance in the root directory:
+
+```
+electron .
+```
+
+## Testing
+The test suite can be run by executing either `karma start` or `yarn test`.
 
 ## License
 
